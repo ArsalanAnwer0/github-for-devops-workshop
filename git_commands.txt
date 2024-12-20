@@ -14,3 +14,4 @@
   git restore testing.py
   clear
   git status
+  git remote -v
